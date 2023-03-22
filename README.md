@@ -9,9 +9,7 @@
 <p>
     💻 Inicié mis pasos en el mundo de la programación hace aproximadamente más de 2 años, descubriendo un ecosistema en el cual me siento muy cómodo de aprender y trabajar en proyectos constantemente. En todo este tiempo adquirí conocimientos en HTML, CSS, SASS, Javascript y React JS, entre otros.
 </p>
-<p>
-    💼 Actualmente no poseo trabajo profesional. Aún así realizo proyectos personales y/o familiares con el objetivo de aprender y crecer en el área día a día.
-</p>
+
 <p>
     🎯 Mi objetivo es desempeñarme profesionalmente en el sector de desarrollo de una empresa (front end), dónde se me permita aplicar todos mis conocimientos y seguir creciendo constantemente como profesional para lograr los resultados más óptimos y eficientes.
 </p>
