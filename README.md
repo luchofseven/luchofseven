@@ -11,13 +11,13 @@
 </p>
 
 <p>
-    🎯 Mi objetivo es desempeñarme profesionalmente en el sector de desarrollo de una empresa (front end), dónde se me permita aplicar todos mis conocimientos y seguir creciendo constantemente como profesional para lograr los resultados más óptimos y eficientes.
+    🎯 Mi objetivo es desempeñarme profesionalmente en el sector de desarrollo de una empresa (front end), dónde se me permita aplicar todos mis conocimientos y seguir creciendo constantemente como profesional para lograr los mejores resultados.
 </p>
 <p>
-    🎨 También diseño banners, flyers, wallpapers por hobbie, utilizando Adobe Photoshop.
+    🎨 También diseño banners, flyers, wallpapers por hobbie 🤪, utilizando Adobe Photoshop.
 </p>
 <p>
-    ✉️ En el caso de requerir más información sobre mí, podés contactarme a través de mi Linkedin. 😊
+    ✉️ En el caso de requerir más información sobre mí, podés contactarme a través de Linkedin o mis redes sociales. Gracias! 😊
 </p>
 
 
