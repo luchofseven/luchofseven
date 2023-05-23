@@ -7,7 +7,7 @@
 
 
 <p>
-    💻 Inicié mis pasos en el mundo de la programación hace aproximadamente más de 2 años, descubriendo un ecosistema en el cual me siento muy cómodo de aprender y trabajar en proyectos constantemente. En todo este tiempo adquirí conocimientos en HTML, CSS, SASS, Javascript y React JS, entre otros.
+    💻 Inicié mis pasos en el mundo de la programación hace aproximadamente más de 2 años, descubriendo un ecosistema en el cual me siento muy cómodo de aprender y trabajar en proyectos constantemente. En todo este tiempo adquirí conocimientos en HTML, CSS, SASS, Javascript, React JS, Next JS, Tailwind, entre otros.
 </p>
 
 <p>
