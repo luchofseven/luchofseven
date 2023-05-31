@@ -5,13 +5,12 @@
 </p>
 
 
-
 <p>
     💻 Inicié mis pasos en el mundo de la programación hace aproximadamente más de 2 años, descubriendo un ecosistema en el cual me siento muy cómodo de aprender y trabajar en proyectos constantemente. En todo este tiempo adquirí conocimientos en HTML, CSS, SASS, Javascript, React JS, Next JS, Tailwind, entre otros.
 </p>
 
 <p>
-    🎯 Mi objetivo es desempeñarme profesionalmente en el sector de desarrollo de una empresa (front end), dónde se me permita aplicar todos mis conocimientos y seguir creciendo constantemente como profesional para lograr los mejores resultados.
+    🎯 Me encantaría formar parte de manera profesional en el sector de desarrollo de una empresa, utilizando en lo posible, React como tecnología principal.
 </p>
 <p>
     🎨 También diseño banners, flyers, wallpapers por hobbie 🤪, utilizando Adobe Photoshop.
