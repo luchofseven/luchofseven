@@ -1,12 +1,12 @@
-<p align="center">👋 ¡Hola! Soy Luciano, <i>Front-end developer.</i> 😁</p>
+<p align="center">👋 ¡Hola! Soy Luciano, <i>front-end developer.</i> 😁</p>
 
 <p align="center">
-  <img src="https://scontent.fcnq2-1.fna.fbcdn.net/v/t1.6435-1/99428083_245972526627962_7865954520671453184_n.jpg?stp=dst-jpg_p240x240&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_ohc=IA16HlDiLV0AX9E8OyZ&_nc_ht=scontent.fcnq2-1.fna&oh=00_AfAd112CGN703ZpFwSwHGoigm7zwPJwPIElX_6T7OuMerg&oe=649DBB8C" alt="Foto de Luciano" width="250px" height="250px">
+  <img src="https://luchofseven.github.io/personal-portfolio/assets/me.webp" alt="Foto de Luciano" width="250px" height="250px">
 </p>
 
 
 <p>
-    💻 Inicié mis pasos en el mundo de la programación hace aproximadamente más de 2 años, descubriendo un ecosistema en el cual me siento muy cómodo de aprender y trabajar en proyectos constantemente. En todo este tiempo adquirí conocimientos en HTML, CSS, SASS, Javascript, React JS, Next JS, Tailwind, entre otros.
+    💻 Inicié mis pasos en el mundo de la programación hace aproximadamente más de 2 años, descubriendo un ecosistema en el cual me siento muy cómodo de aprender y trabajar en proyectos constantemente. En todo este tiempo adquirí conocimientos en HTML, CSS, SASS, JavaScript, React, Next, Tailwind, entre otros.
 </p>
 
 <p>
@@ -17,6 +17,9 @@
 </p>
 <p>
     ✉️ En el caso de requerir más información sobre mí, podés contactarme a través de Linkedin o mis redes sociales. Gracias! 😊
+</p>
+<p>
+    🚀 Actualmente estoy aprendiendo y realizando apps con TypeScript, espero profundizarlo de tal manera que pueda lograr un óptimo nivel con éste lenguaje.
 </p>
 
 
