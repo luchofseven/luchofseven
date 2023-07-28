@@ -1,4 +1,4 @@
-<p align="center">👋 ¡Hola! Soy Luciano, <i>front-end developer.</i> 😁</p>
+<p align="center">👋 ¡Hola! Soy Luciano, <i>front-end developer.</i></p>
 
 <p align="center">
   <img src="https://luchofseven.github.io/personal-portfolio/assets/me.webp" alt="Foto de Luciano" width="250px" height="250px">
