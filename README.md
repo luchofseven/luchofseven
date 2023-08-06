@@ -1,4 +1,4 @@
-<p align="center">👋 ¡Hola! Soy Luciano, <i>front-end developer.</i></p>
+<p align="center">👋 ¡Hola! Soy Luciano, Desarrollador Front-end</p>
 
 <p align="center">
   <img src="https://luchofseven.github.io/personal-portfolio/assets/me.webp" alt="Foto de Luciano" width="250px" height="250px">
@@ -14,16 +14,12 @@
     🎯 Me encantaría formar parte de manera profesional en el sector de desarrollo de una empresa, utilizando en lo posible, React como tecnología principal.
 </p>
 <p>
-    🎨 También diseño banners, flyers, wallpapers por hobbie 🤪, utilizando Adobe Photoshop.
-</p>
-<p>
     ✉️ En el caso de requerir más información sobre mí, podés contactarme a través de Linkedin o mis redes sociales. Gracias! 😊
 </p>
 <p>
     Te dejo mi portafolio para que puedas ver mis proyectos 😉: https://portfolio-zeta-five-47.vercel.app/ 
     ¡Gracias! 😁
 </p>
-
 
 ##### 🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luchofseven) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luchofseven) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/luchofseven) 
