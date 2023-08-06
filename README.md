@@ -5,10 +5,19 @@
 </p>
 
 
-<p>
-    💻 Inicié mis pasos en el mundo de la programación hace aproximadamente más de 2 años, descubriendo un ecosistema en el cual me siento muy cómodo de aprender y trabajar en proyectos constantemente. En todo este tiempo adquirí conocimientos en HTML, CSS, SASS, JavaScript, React, Next, Tailwind, entre otros.
-</p>
 
+🎯 Me encantaría formar parte de manera profesional en el sector de desarrollo de una empresa y/o contribuyendo a un proyecto contigo, utilizando en lo posible, React como tecnología principal.
+
+✉️ En cualquier caso podés contactarme a través de mis medios de contacto o simplemente dejándome un mensaje.
+
+
+
+<p>
+    🧑‍💻 Inicié mis pasos en el mundo de la programación hace aproximadamente más de 2 años. En todo este tiempo adquirí conocimientos en distintas tecnologías como: HTML, CSS, Sass, JavaScript, React, Next.Js, Tailwind, entre otros.
+</p>
+<p>
+  🚀 Actualmente estoy aprendiendo y realizando aplicaciones con TypeScript, espero profundizarlo de tal manera que pueda lograr un óptimo nivel y dominar éste lenguaje.
+</p>
 <p>
     🎯 Me encantaría formar parte de manera profesional en el sector de desarrollo de una empresa, utilizando en lo posible, React como tecnología principal.
 </p>
@@ -19,7 +28,8 @@
     ✉️ En el caso de requerir más información sobre mí, podés contactarme a través de Linkedin o mis redes sociales. Gracias! 😊
 </p>
 <p>
-    🚀 Actualmente estoy aprendiendo y realizando apps con TypeScript, espero profundizarlo de tal manera que pueda lograr un óptimo nivel con éste lenguaje.
+    Te dejo mi portafolio para que puedas ver mis proyectos 😉: https://portfolio-zeta-five-47.vercel.app/ 
+    ¡Gracias! 😁
 </p>
 
 
