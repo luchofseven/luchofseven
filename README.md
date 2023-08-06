@@ -1,8 +1,8 @@
 <p align="center">👋 ¡Hola! Soy Luciano, Desarrollador Front-end</p>
 
 <p align="center">
-  <img src="https://luchofseven.github.io/personal-portfolio/assets/me.webp" alt="Foto de Luciano" width="250px" height="250px">
-  <img src="https://portfolio-zeta-five-47.vercel.app/me.webp" alt="Foto de Luciano" width="250px" height="250px">
+  
+  <img src="https://portfolio-zeta-five-47.vercel.app/me.webp" alt="Foto de Luciano" width="250px" height="auto">
 </p>
 
 <p>
