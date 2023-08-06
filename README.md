@@ -4,14 +4,6 @@
   <img src="https://luchofseven.github.io/personal-portfolio/assets/me.webp" alt="Foto de Luciano" width="250px" height="250px">
 </p>
 
-
-
-🎯 Me encantaría formar parte de manera profesional en el sector de desarrollo de una empresa y/o contribuyendo a un proyecto contigo, utilizando en lo posible, React como tecnología principal.
-
-✉️ En cualquier caso podés contactarme a través de mis medios de contacto o simplemente dejándome un mensaje.
-
-
-
 <p>
     🧑‍💻 Inicié mis pasos en el mundo de la programación hace aproximadamente más de 2 años. En todo este tiempo adquirí conocimientos en distintas tecnologías como: HTML, CSS, Sass, JavaScript, React, Next.Js, Tailwind, entre otros.
 </p>
