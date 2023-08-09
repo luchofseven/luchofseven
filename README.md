@@ -18,7 +18,7 @@
     ✉️ En el caso de requerir más información sobre mí, podés contactarme a través de Linkedin o mis redes sociales. Gracias! 😊
 </p>
 <p>
-    Te dejo mi portafolio para que puedas ver mis proyectos 😉: [Portafolio Web](https://luchofseven.com.ar) 
+    Te dejo mi portafolio para que puedas ver mis proyectos 😉 --> https://luchofseven.com.ar
     ¡Gracias! 😁
 </p>
 
