@@ -15,10 +15,10 @@
     🎯 Me encantaría formar parte de manera profesional en el sector de desarrollo de una empresa, utilizando en lo posible, React como tecnología principal.
 </p>
 <p>
-    ✉️ En el caso de requerir más información sobre mí, podés contactarme a través de Linkedin o mis redes sociales. Gracias! 😊
+    ✉️ En el caso de requerir más información sobre mí, podés contactarme a través de Linkedin o mis redes sociales.
 </p>
 <p>
-    Te dejo mi portafolio para que puedas ver mis proyectos 😉 --> https://luchofseven.com.ar
+    También te dejo mi portafolio para que puedas ver mis proyectos 😉 --> https://luchofseven.com.ar
     ¡Gracias! 😁
 </p>
 
