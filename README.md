@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <img src="https://portfolio-zeta-five-47.vercel.app/me.webp" alt="Foto de Luciano" width="250px" height="auto">
+  <img src="https://luchofseven.com.ar/me.webp" alt="Foto de Luciano" width="250px" height="auto">
 </p>
 
 <p>
