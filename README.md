@@ -1,4 +1,4 @@
-<p align="center">👋 ¡Hola! Soy Luciano, Desarrollador Front-end</p>
+<p align="center">👋 ¡Hola! Soy Luciano, Desarrollador Frontend</p>
 
 <p align="center">
   
@@ -6,13 +6,13 @@
 </p>
 
 <p>
-    🧑‍💻 Inicié mis pasos en el mundo de la programación hace aproximadamente más de 2 años. En todo este tiempo adquirí conocimientos en distintas tecnologías como: HTML, CSS, Sass, JavaScript, React, Next.Js, Tailwind, entre otros.
+    🧑‍💻 Inicié mis pasos en el mundo de la programación hace aproximadamente más de 2 años. En todo este tiempo adquirí experiencia en distintas tecnologías como: HTML, CSS, Sass, JavaScript, React, Next.Js, Tailwind, entre otros.
 </p>
 <p>
-  🚀 Actualmente estoy aprendiendo y realizando aplicaciones con TypeScript, espero profundizarlo de tal manera que pueda lograr un óptimo nivel y dominar éste lenguaje.
+    🚀 Actualmente estoy realizando aplicaciones con TypeScript, profundizando de tal manera para lograr dominar éste lenguaje.
 </p>
 <p>
-    🎯 Me encantaría formar parte de manera profesional en el sector de desarrollo de una empresa, utilizando en lo posible, React como tecnología principal.
+    🎯 Me encantaría formar parte del sector de desarrollo de una empresa y/o contribuyendo a un proyecto contigo, utilizando en lo posible React como tecnología principal.
 </p>
 <p>
     ✉️ En el caso de requerir más información sobre mí, podés contactarme a través de Linkedin o mis redes sociales.
