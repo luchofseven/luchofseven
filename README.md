@@ -1,4 +1,4 @@
-<p align="center">👋 ¡Hola! Soy Luciano, Desarrollador Frontend</p>
+<p align="center">👋 ¡Hola! Soy Luciano, desarrollador frontend</p>
 
 <p align="center">
   
@@ -12,7 +12,7 @@
     🚀 Actualmente estoy realizando aplicaciones con TypeScript, profundizando de tal manera para lograr dominar éste lenguaje.
 </p>
 <p>
-    🎯 Me encantaría formar parte del sector de desarrollo de una empresa y/o contribuyendo a un proyecto contigo, utilizando en lo posible React como tecnología principal.
+    🎯 Me encantaría formar parte del sector de desarrollo de una empresa y/o contribuyendo a un proyecto contigo.
 </p>
 <p>
     ✉️ En el caso de requerir más información sobre mí, podés contactarme a través de Linkedin o mis redes sociales.
