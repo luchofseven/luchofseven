@@ -1,4 +1,4 @@
-<p align="center">👋 ¡Hola! Soy Luciano, desarrollador frontend</p>
+<p align="center">👋 ¡Hola! Soy Luciano, desarrollador frontend.</p>
 
 <p align="center">
   
