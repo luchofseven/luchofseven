@@ -1,4 +1,4 @@
-<p align="center">👋 ¡Hola! Soy Luciano, desarrollador frontend.</p>
+<p align="center">👋 ¡Hola! Soy Luciano.</p>
 
 <p align="center">
   
@@ -10,6 +10,7 @@
 </p>
 <p>
     🚀 Actualmente estoy realizando aplicaciones con TypeScript, profundizando de tal manera para lograr dominar éste lenguaje.
+        También me encuentro realizando apps con NestJS en el backend.
 </p>
 <p>
     🎯 Me encantaría formar parte del sector de desarrollo de una empresa y/o contribuyendo a un proyecto contigo.
