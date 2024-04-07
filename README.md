@@ -1,10 +1,4 @@
 <p align="center">👋 ¡Hola! Soy Luciano.</p>
-
-<p align="center">
-  
-  <img src="https://luchofseven.com.ar/me.webp" alt="Foto de Luciano" width="250px" height="auto">
-</p>
-
 <p>
     🧑‍💻 Tengo más de 2 años de experiencia utilizando tecnologías como: HTML, CSS, Sass, JavaScript, React. También hago uso de Next.Js, Tailwind, TypeScript, Node, NestJS, entre otros.
 </p>
