@@ -1,4 +1,4 @@
-<p align="center">👋 ¡Hola! Soy Luciano.</p>
+<p>👋 ¡Hola! Soy Luciano.</p>
 <p>
     🧑‍💻 Más de 3 años de experiencia en desarrollo de aplicaciones web. Especializado en frontend, utilizando tecnologías como: HTML, CSS, JavaScript, React, Next.Js, Tailwind, TypeScript, Node, NestJS, Redux, Sass, entre otros.
 </p>
