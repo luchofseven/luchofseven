@@ -1,9 +1,9 @@
 <p>👋 ¡Hola! Soy Luciano.</p>
 <p>
-    🧑‍💻 Más de 3 años de experiencia en desarrollo de aplicaciones web. Especializado en frontend, utilizando tecnologías como: HTML, CSS, JavaScript, React, Next.Js, Tailwind, TypeScript, Node, NestJS, Redux, Sass, entre otros.
+    🧑‍💻 Más de 3 años de experiencia en desarrollo de aplicaciones web. Especializado en front end, utilizando tecnologías como: HTML, CSS, JavaScript, React, Next.Js, Tailwind, TypeScript, Node, NestJS, Redux, Sass, entre otros.
 </p>
 <p>
-    🚀 Actualmente estoy realizando aplicaciones fullstack, con tecnologías como React, TypeScript, NestJS y MYSQL.
+    🚀 Actualmente estoy realizando aplicaciones full stack, con tecnologías como React, TypeScript, NestJS y MYSQL.
 </p>
 <p>
     🎯 Estoy dispuesto y me encantaría formar parte de una empresa o contribuir a un proyecto en conjunto.
