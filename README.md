@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🚀 Actualmente co-lidero el desarrollo de ECOMENU, un sistema para la gestión de bares y restaurantes.</h4>
+<h4 align="left">🚀 Actualmente me desempeño como desarrollador full stack en ECOMENU, un sistema para la gestión de bares y restaurantes.</h4>
 
 ###
 
