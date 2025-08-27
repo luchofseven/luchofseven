@@ -24,7 +24,7 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo" width="46"  />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css3 logo" width="46" />
+  <img src="https://cdn.simpleicons.org/css/663399" height="40" alt="css3 logo" width="46" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" width="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" width="46" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo" width="46" />
