@@ -1,20 +1,20 @@
-<h4 align="left">👋 ¡Hola! Soy Luciano.</h4>
+<p align="left">👋 ¡Hola! Soy Luciano.</p>
 
 ###
 
-<h4 align="left">💻 Tengo más de 3 años de experiencia desarrollando aplicaciones web. Especializado en React, TypeScript y Tailwind para frontend, con experiencia en backend usando NestJS, TypeORM y MySQL/PostgreSQL.</h4>
+<p align="left">💻 Tengo más de 3 años de experiencia desarrollando aplicaciones web. Especializado en React, TypeScript y Tailwind para frontend, con experiencia en backend usando NestJS, TypeORM y MySQL/PostgreSQL.</p>
 
 ###
 
-<h4 align="left">🚀 Actualmente me desempeño como desarrollador full stack en ECOMENU, un sistema para la gestión de bares y restaurantes.</h4>
+<p align="left">🚀 Actualmente me desempeño como desarrollador full stack en ECOMENU, un sistema para la gestión de bares y restaurantes.</p>
 
 ###
 
-<h4 align="left">🎯 Estoy dispuesto y me encantaría formar parte de una empresa o contribuir a un proyecto en conjunto.</h4>
+<p align="left">🎯 Estoy dispuesto y me encantaría formar parte de una empresa o contribuir a un proyecto en conjunto.</p>
 
 ###
 
-<h4 align="left">✉️ En el caso de requerir más información sobre mí, podés contactarme a través de Linkedin o mis redes sociales.<br><br>También te dejo mi portafolio para que puedas ver mis proyectos 😉 --> https://luchofseven.com.ar ¡Gracias! 😁</h4>
+<p align="left">✉️ En el caso de requerir más información sobre mí, podés contactarme a través de Linkedin o mis redes sociales.<br><br>También te dejo mi portafolio para que puedas ver mis proyectos 😉 --> https://luchofseven.com.ar ¡Gracias! 😁</p>
 
 ###
 
@@ -40,10 +40,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" width="46" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo" width="46" />
 </div>
-
-###
-
-<h4 align="left">Redes sociales</h4>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luchofseven) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luchofseven) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/luchofseven)
-
