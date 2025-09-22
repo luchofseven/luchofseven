@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Tengo más de 3 años de experiencia desarrollando aplicaciones web. Especializado en React, TypeScript y Tailwind para frontend, con experiencia en backend usando NestJS, TypeORM y MySQL/PostgreSQL.</p>
+<p align="left">💻 Tengo más de 2 años de experiencia desarrollando aplicaciones web. Especializado en React, TypeScript y Tailwind para frontend, con experiencia en backend usando NestJS, TypeORM y MySQL/PostgreSQL.</p>
 
 ###
 
